@@ -1,0 +1,2 @@
+model_checkpoint_path: "GreedySmall.h5f"
+all_model_checkpoint_paths: "GreedySmall.h5f"
